@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.ipl-team-container {
+  width: 250px;
+  border-style: solid;
+  border-color: white;
+  border-width: 1px;
+  border-radius: 5px;
+  padding: 10px;
+  background-color: #ffffff33;
+  margin-right: 20px;
+  margin-bottom: 20px;
+}
+
+.link {
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.team-logo {
+  height: 120px;
+  width: 100px;
+  margin-right: 10px;
+}
+
+.team-name {
+  color: #ffffff;
+}
